@@ -149,6 +149,12 @@
     "status": 200,
     "timestamp": "2026-07-22T11:42:26.110982+00:00"
   },
+  "https://afghanistan.mimusjobs.com/job/ingenieur-sourcing-permanent/": {
+    "result": "success",
+    "site": "Afghanistan",
+    "status": 200,
+    "timestamp": "2026-09-21T09:57:22.349446+00:00"
+  },
   "https://afghanistan.mimusjobs.com/job/instructional-data-science-specialist/": {
     "result": "success",
     "site": "Afghanistan",
@@ -694,6 +700,12 @@
     "site": "Albania",
     "status": 200,
     "timestamp": "2026-07-20T12:44:24.183032+00:00"
+  },
+  "https://albania.mimusjobs.com/job/carpenter-journeyman-various-locations/": {
+    "result": "success",
+    "site": "Albania",
+    "status": 200,
+    "timestamp": "2026-09-21T09:57:23.720095+00:00"
   },
   "https://albania.mimusjobs.com/job/chef-de-mission-h-f/": {
     "result": "success",
