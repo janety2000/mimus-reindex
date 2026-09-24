@@ -665,6 +665,12 @@
     "status": 200,
     "timestamp": "2026-08-05T11:55:16.766473+00:00"
   },
+  "https://afghanistan.mimusjobs.com/job/sterilization-technician-entry-level/": {
+    "result": "success",
+    "site": "Afghanistan",
+    "status": 200,
+    "timestamp": "2026-09-24T09:18:23.016366+00:00"
+  },
   "https://afghanistan.mimusjobs.com/job/truck-driver/": {
     "result": "success",
     "site": "Afghanistan",
@@ -1150,6 +1156,12 @@
     "site": "Albania",
     "status": 200,
     "timestamp": "2026-09-22T09:22:03.854560+00:00"
+  },
+  "https://albania.mimusjobs.com/job/specialist-i-riskut-operacional/": {
+    "result": "success",
+    "site": "Albania",
+    "status": 200,
+    "timestamp": "2026-09-24T09:18:24.486063+00:00"
   },
   "https://albania.mimusjobs.com/job/staff-systems-engineer-c-remote-work-ref289959/": {
     "result": "success",
