@@ -497,6 +497,12 @@
     "status": 200,
     "timestamp": "2026-09-29T10:55:19.307768+00:00"
   },
+  "https://afghanistan.mimusjobs.com/job/senior-economist-livelihoods-research-manager-afghanistan/": {
+    "result": "success",
+    "site": "Newezaland",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:03.218160+00:00"
+  },
   "https://afghanistan.mimusjobs.com/job/senior-education-advisor-p-5-2-year-fixed-term-kabul-afghanistan-non-afghan-nationals-only/": {
     "result": "success",
     "site": "Afghanistan",
@@ -1013,6 +1019,12 @@
     "status": 200,
     "timestamp": "2026-08-30T10:06:23.365128+00:00"
   },
+  "https://albania.mimusjobs.com/job/junior-it-application-administrator/": {
+    "result": "success",
+    "site": "Albania",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:07.568007+00:00"
+  },
   "https://albania.mimusjobs.com/job/junior-recruiter/": {
     "result": "success",
     "site": "Albania",
@@ -1223,6 +1235,12 @@
     "status": 200,
     "timestamp": "2026-08-09T06:37:46.106238+00:00"
   },
+  "https://albania.mimusjobs.com/job/senior-infrastructure-specialist/": {
+    "result": "success",
+    "site": "Albania",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:30.842567+00:00"
+  },
   "https://albania.mimusjobs.com/job/senior-java-backend-developer-remote-work-ref290269/": {
     "result": "success",
     "site": "Albania",
@@ -1372,6 +1390,12 @@
     "site": "Algeria",
     "status": 200,
     "timestamp": "2026-07-19T11:05:28.854172+00:00"
+  },
+  "https://algeria.mimusjobs.com/job/ai-training-specialist-in-arabic/": {
+    "result": "success",
+    "site": "Algeria",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:08.770402+00:00"
   },
   "https://algeria.mimusjobs.com/job/assistant-store-manager-at-banter-by-piercing-pagoda-arbor-place/": {
     "result": "success",
@@ -1985,6 +2009,12 @@
     "status": 200,
     "timestamp": "2026-08-06T12:09:05.169908+00:00"
   },
+  "https://angola.mimusjobs.com/job/2026-graduate-program-associate-at-deloitte-angola/": {
+    "result": "success",
+    "site": "Angola",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:09.967787+00:00"
+  },
   "https://angola.mimusjobs.com/job/candidatura-espontanea/": {
     "result": "success",
     "site": "Angola",
@@ -2561,6 +2591,12 @@
     "status": 200,
     "timestamp": "2026-07-27T14:06:48.872344+00:00"
   },
+  "https://argentina.mimusjobs.com/job/dentista-general/": {
+    "result": "success",
+    "site": "Argentina",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:11.139140+00:00"
+  },
   "https://argentina.mimusjobs.com/job/devops-manager/": {
     "result": "success",
     "site": "Argentina",
@@ -3089,11 +3125,23 @@
     "status": 200,
     "timestamp": "2026-09-30T11:26:38.619650+00:00"
   },
+  "https://armenia.mimusjobs.com/job/substitute-conductor-for-reserves-supernumerary/": {
+    "result": "success",
+    "site": "Armenia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:12.316938+00:00"
+  },
   "https://austria.mimusjobs.com/job/department-manager-saint-laurent-vienna-m-f-d/": {
     "result": "success",
     "site": "Austria",
     "status": 200,
     "timestamp": "2026-10-05T11:47:31.957559+00:00"
+  },
+  "https://austria.mimusjobs.com/job/grafiker-in/": {
+    "result": "success",
+    "site": "Austria",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:13.478972+00:00"
   },
   "https://austria.mimusjobs.com/job/part-time-online-private-english-tutor/": {
     "result": "success",
@@ -3412,6 +3460,12 @@
     "site": "Azerbaijan",
     "status": 200,
     "timestamp": "2026-09-05T08:25:05.057733+00:00"
+  },
+  "https://azerbaijan.mimusjobs.com/job/junior-senior-electrical-engineer/": {
+    "result": "success",
+    "site": "Azerbaijan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:14.650304+00:00"
   },
   "https://azerbaijan.mimusjobs.com/job/language-teacher-remote/": {
     "result": "success",
@@ -4259,6 +4313,12 @@
     "status": 200,
     "timestamp": "2026-09-29T10:54:06.686452+00:00"
   },
+  "https://bahamas.mimusjobs.com/job/plumber-royal-beach-club/": {
+    "result": "success",
+    "site": "Bahamas",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:41.248447+00:00"
+  },
   "https://bahamas.mimusjobs.com/job/plumber-technician-half-moon-cay-bahamas/": {
     "result": "success",
     "site": "Bahamas",
@@ -4276,6 +4336,12 @@
     "site": "Bahamas",
     "status": 200,
     "timestamp": "2026-08-16T05:25:30.262277+00:00"
+  },
+  "https://bahamas.mimusjobs.com/job/public-area-attendant/": {
+    "result": "success",
+    "site": "Bahamas",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:15.796694+00:00"
   },
   "https://bahamas.mimusjobs.com/job/remote-client-support-specialist/": {
     "result": "success",
@@ -4397,6 +4463,12 @@
     "status": 200,
     "timestamp": "2026-09-28T11:10:21.979130+00:00"
   },
+  "https://bahrain.mimusjobs.com/job/barbecue-assistant-claw-bbq/": {
+    "result": "success",
+    "site": "Bahrain",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:16.913158+00:00"
+  },
   "https://bahrain.mimusjobs.com/job/childcare-assistant-at-kids-club/": {
     "result": "success",
     "site": "Bahrain",
@@ -4492,6 +4564,12 @@
     "site": "Bangladesh",
     "status": 200,
     "timestamp": "2026-10-02T11:05:35.455482+00:00"
+  },
+  "https://bangladesh.mimusjobs.com/job/senior-roster-recruitment-project-manager/": {
+    "result": "success",
+    "site": "Bangladesh",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:18.059055+00:00"
   },
   "https://barbados.mimusjobs.com/job/account-executive-strategy-project-management/": {
     "result": "success",
@@ -4762,6 +4840,12 @@
     "site": "Barbados",
     "status": 200,
     "timestamp": "2026-10-01T11:14:35.674859+00:00"
+  },
+  "https://barbados.mimusjobs.com/job/executive-vice-president-evp-finance-insurance-investments/": {
+    "result": "success",
+    "site": "Barbados",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:19.233185+00:00"
   },
   "https://barbados.mimusjobs.com/job/face-deduplication-collection/": {
     "result": "success",
@@ -5171,6 +5255,12 @@
     "status": 200,
     "timestamp": "2026-10-05T11:50:28.740688+00:00"
   },
+  "https://belgium.mimusjobs.com/job/jobevent-04-07-2026-transportplanning/": {
+    "result": "success",
+    "site": "Belgium",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:20.397399+00:00"
+  },
   "https://belgium.mimusjobs.com/job/la-maison-medicale-antenne-tournesol-recherche-un-e-accueillant-e-admin-lieu-de-travail-jette/": {
     "result": "success",
     "site": "Belgium",
@@ -5393,6 +5483,12 @@
     "status": 200,
     "timestamp": "2026-08-29T11:08:48.527975+00:00"
   },
+  "https://belize.mimusjobs.com/job/dispatcher-representative-native-english-caribbean-latam-remote/": {
+    "result": "success",
+    "site": "Belize",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:21.598903+00:00"
+  },
   "https://belize.mimusjobs.com/job/energy-power-systems-specialist-intermediate-ai-community/": {
     "result": "success",
     "site": "Belize",
@@ -5494,6 +5590,12 @@
     "site": "Belize",
     "status": 200,
     "timestamp": "2026-08-31T10:54:38.352823+00:00"
+  },
+  "https://belize.mimusjobs.com/job/marketing-project-manager-clickup/": {
+    "result": "success",
+    "site": "Belize",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:08.897817+00:00"
   },
   "https://belize.mimusjobs.com/job/marketing-specialist/": {
     "result": "success",
@@ -6149,6 +6251,12 @@
     "status": 200,
     "timestamp": "2026-09-20T09:23:48.798225+00:00"
   },
+  "https://benin.mimusjobs.com/job/merchandiser/": {
+    "result": "success",
+    "site": "Benin",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:22.752762+00:00"
+  },
   "https://benin.mimusjobs.com/job/motion-designer/": {
     "result": "success",
     "site": "Benin",
@@ -6665,6 +6773,12 @@
     "status": 200,
     "timestamp": "2026-09-06T08:44:51.847712+00:00"
   },
+  "https://bolivia.mimusjobs.com/job/executive-headhunter-remote-work/": {
+    "result": "success",
+    "site": "Bolivia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:23.896075+00:00"
+  },
   "https://bolivia.mimusjobs.com/job/executive-recruiter-remote-work/": {
     "result": "success",
     "site": "Bolivia",
@@ -7031,6 +7145,12 @@
     "status": 200,
     "timestamp": "2026-07-19T11:04:55.145798+00:00"
   },
+  "https://botswana.mimusjobs.com/job/faculty-members-across-academic-disciplines-botswana-institute-of-banking-finance/": {
+    "result": "success",
+    "site": "Botswana",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:25.052873+00:00"
+  },
   "https://botswana.mimusjobs.com/job/hardware-sales-representative-at-tournament-hardware/": {
     "result": "success",
     "site": "Botswana",
@@ -7384,6 +7504,12 @@
     "site": "Brazil",
     "status": 200,
     "timestamp": "2026-09-25T09:51:32.216466+00:00"
+  },
+  "https://brazil.mimusjobs.com/job/auxiliar-de-servicos-gerais/": {
+    "result": "success",
+    "site": "Brazil",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:26.234152+00:00"
   },
   "https://brazil.mimusjobs.com/job/auxiliar-logistico-i-2/": {
     "result": "success",
@@ -7757,6 +7883,12 @@
     "status": 200,
     "timestamp": "2026-09-01T09:33:18.054993+00:00"
   },
+  "https://brazil.mimusjobs.com/job/vaga-de-cuidador-em-saude/": {
+    "result": "success",
+    "site": "Brazil",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:43.528169+00:00"
+  },
   "https://brazil.mimusjobs.com/job/vagas-de-auxiliar-de-producao-em-tatui/": {
     "result": "success",
     "site": "Brazil",
@@ -7822,6 +7954,12 @@
     "site": "Brunei",
     "status": 200,
     "timestamp": "2026-07-19T11:03:06.975302+00:00"
+  },
+  "https://brunei.mimusjobs.com/job/oficial-de-compensacao-m-f/": {
+    "result": "success",
+    "site": "Brunei",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:27.382429+00:00"
   },
   "https://brunei.mimusjobs.com/job/program-development-manager-for-youth-initiatives/": {
     "result": "success",
@@ -8411,6 +8549,12 @@
     "status": 200,
     "timestamp": "2026-07-20T12:47:05.744224+00:00"
   },
+  "https://burma.mimusjobs.com/job/talent-acquisition-specialist/": {
+    "result": "success",
+    "site": "Burma",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:28.529686+00:00"
+  },
   "https://burma.mimusjobs.com/job/team-lead/": {
     "result": "success",
     "site": "Burma",
@@ -8831,6 +8975,12 @@
     "status": 200,
     "timestamp": "2026-09-02T08:52:10.612540+00:00"
   },
+  "https://burundi.mimusjobs.com/job/national-account-manager/": {
+    "result": "success",
+    "site": "Burundi",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:29.684692+00:00"
+  },
   "https://burundi.mimusjobs.com/job/national-consultant-wash-sur-site-voyage-594513/": {
     "result": "success",
     "site": "Burundi",
@@ -9046,6 +9196,12 @@
     "site": "Cambodia",
     "status": 200,
     "timestamp": "2026-07-19T11:04:57.316305+00:00"
+  },
+  "https://cambodia.mimusjobs.com/job/spontanbewerbung/": {
+    "result": "success",
+    "site": "Cambodia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:30.863548+00:00"
   },
   "https://cambodia.mimusjobs.com/job/vue-js-nuxt-js-frontend-developer/": {
     "result": "success",
@@ -9395,6 +9551,12 @@
     "status": 200,
     "timestamp": "2026-09-04T08:46:29.134109+00:00"
   },
+  "https://cameroon.mimusjobs.com/job/frenchenglish-bilingual-customer-service-representative-2/": {
+    "result": "success",
+    "site": "Cameroon",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:23.894283+00:00"
+  },
   "https://cameroon.mimusjobs.com/job/frenchenglish-bilingual-customer-service-representative/": {
     "result": "success",
     "site": "Cameroon",
@@ -9520,6 +9682,12 @@
     "site": "Cameroon",
     "status": 200,
     "timestamp": "2026-09-16T09:27:29.579862+00:00"
+  },
+  "https://cameroon.mimusjobs.com/job/mix-volume-pilla-005-010mm/": {
+    "result": "success",
+    "site": "Cameroon",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:32.019840+00:00"
   },
   "https://cameroon.mimusjobs.com/job/officer-country-programs-ln/": {
     "result": "success",
@@ -10259,6 +10427,12 @@
     "status": 200,
     "timestamp": "2026-09-02T08:49:44.961553+00:00"
   },
+  "https://canada.mimusjobs.com/job/restaurant-manager/": {
+    "result": "success",
+    "site": "Canada",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:33.154361+00:00"
+  },
   "https://canada.mimusjobs.com/job/restaurant-supervisor/": {
     "result": "success",
     "site": "Canada",
@@ -10361,6 +10535,12 @@
     "status": 200,
     "timestamp": "2026-08-25T04:55:35.014451+00:00"
   },
+  "https://canada.mimusjobs.com/job/underground-facilities-locator/": {
+    "result": "success",
+    "site": "Canada",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:33.139759+00:00"
+  },
   "https://canada.mimusjobs.com/job/video-editor-remote/": {
     "result": "success",
     "site": "Canada",
@@ -10420,6 +10600,12 @@
     "site": "Capeverde",
     "status": 200,
     "timestamp": "2026-09-30T11:26:59.961379+00:00"
+  },
+  "https://capeverde.mimusjobs.com/job/quality-assurance-analyst-ai-remote-portuguese/": {
+    "result": "success",
+    "site": "Capeverde",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:34.290593+00:00"
   },
   "https://capeverde.mimusjobs.com/job/tecnico-de-seguranca/": {
     "result": "success",
@@ -10835,6 +11021,12 @@
     "status": 200,
     "timestamp": "2026-07-24T11:35:02.376157+00:00"
   },
+  "https://centralafricanrepublic.mimusjobs.com/job/project-manager-ouvert-aux-candidats-internes-externes/": {
+    "result": "success",
+    "site": "Centralafricanrepublic",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:35.487523+00:00"
+  },
   "https://centralafricanrepublic.mimusjobs.com/job/residential-service-coordinator/": {
     "result": "success",
     "site": "Centralafricanrepublic",
@@ -11026,6 +11218,12 @@
     "site": "Chad",
     "status": 200,
     "timestamp": "2026-09-07T09:19:19.713622+00:00"
+  },
+  "https://chad.mimusjobs.com/job/analyste-en-gestion-des-donnees-ouvert-aux-candidats-internes-externes-2/": {
+    "result": "success",
+    "site": "Chad",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:36.638393+00:00"
   },
   "https://chad.mimusjobs.com/job/analyste-en-gestion-des-donnees-ouvert-aux-candidats-internes-externes/": {
     "result": "success",
@@ -11530,6 +11728,12 @@
     "site": "Chile",
     "status": 200,
     "timestamp": "2026-09-22T09:25:05.012036+00:00"
+  },
+  "https://chile.mimusjobs.com/job/asistente-administrativo-contable/": {
+    "result": "success",
+    "site": "Chile",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:37.769808+00:00"
   },
   "https://chile.mimusjobs.com/job/asistente-apoyo-campana-pt-18/": {
     "result": "success",
@@ -12268,6 +12472,12 @@
     "site": "Colombia",
     "status": 200,
     "timestamp": "2026-08-18T05:33:54.515032+00:00"
+  },
+  "https://colombia.mimusjobs.com/job/auxiliar-de-citas-call-center/": {
+    "result": "success",
+    "site": "Colombia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:38.929213+00:00"
   },
   "https://colombia.mimusjobs.com/job/auxiliar-de-cocina/": {
     "result": "success",
@@ -13121,6 +13331,12 @@
     "status": 200,
     "timestamp": "2026-09-19T08:53:31.167209+00:00"
   },
+  "https://congo.mimusjobs.com/job/chief-information-security-officer-ciso/": {
+    "result": "success",
+    "site": "Congo",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:40.075476+00:00"
+  },
   "https://congo.mimusjobs.com/job/collections-analyst-dominican-republic-cca/": {
     "result": "success",
     "site": "Congo",
@@ -13156,6 +13372,12 @@
     "site": "Congo",
     "status": 200,
     "timestamp": "2026-09-22T09:22:19.626227+00:00"
+  },
+  "https://congo.mimusjobs.com/job/corporate-audit-manager/": {
+    "result": "success",
+    "site": "Congo",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:27.383256+00:00"
   },
   "https://congo.mimusjobs.com/job/country-director-for-dr-congo/": {
     "result": "success",
@@ -14279,6 +14501,12 @@
     "status": 200,
     "timestamp": "2026-07-30T11:48:24.859593+00:00"
   },
+  "https://congobrazzaville.mimusjobs.com/job/virtual-customer-support-agent-french-english-100-remote/": {
+    "result": "success",
+    "site": "Congobrazzaville",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:41.261725+00:00"
+  },
   "https://congobrazzaville.mimusjobs.com/job/werkzeugmacher-fur-den-internationalen-vertrieb/": {
     "result": "success",
     "site": "Congobrazzaville",
@@ -14801,6 +15029,12 @@
     "status": 200,
     "timestamp": "2026-07-25T10:31:05.957378+00:00"
   },
+  "https://costarica.mimusjobs.com/job/operario-a-para-eviscerado/": {
+    "result": "success",
+    "site": "Costarica",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:42.415347+00:00"
+  },
   "https://costarica.mimusjobs.com/job/operario-calificado-para-limpieza/": {
     "result": "success",
     "site": "Costarica",
@@ -15004,6 +15238,12 @@
     "site": "Costarica",
     "status": 200,
     "timestamp": "2026-08-22T04:52:28.199287+00:00"
+  },
+  "https://cotedivoire.mimusjobs.com/job/agent-comptable/": {
+    "result": "success",
+    "site": "Cotedivoire",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:43.590865+00:00"
   },
   "https://cotedivoire.mimusjobs.com/job/agent-de-support-clientele-international-h-f-2/": {
     "result": "success",
@@ -15707,6 +15947,18 @@
     "status": 200,
     "timestamp": "2026-10-02T11:06:01.491865+00:00"
   },
+  "https://croatia.mimusjobs.com/job/tender-management-substation-automation-system-specialist-f-m-d/": {
+    "result": "success",
+    "site": "Croatia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:44.728789+00:00"
+  },
+  "https://cyprus.mimusjobs.com/job/accountant/": {
+    "result": "success",
+    "site": "Cyprus",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:45.909726+00:00"
+  },
   "https://cyprus.mimusjobs.com/job/caregiver/": {
     "result": "success",
     "site": "Cyprus",
@@ -16073,6 +16325,12 @@
     "status": 200,
     "timestamp": "2026-09-03T08:52:03.185056+00:00"
   },
+  "https://czechia.mimusjobs.com/job/international-admissions-officer-ftc-12-months-prague/": {
+    "result": "success",
+    "site": "Czechia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:47.088525+00:00"
+  },
   "https://czechia.mimusjobs.com/job/international-regional-business-development-manager-mfc/": {
     "result": "success",
     "site": "Czechia",
@@ -16156,6 +16414,12 @@
     "site": "Czechia",
     "status": 200,
     "timestamp": "2026-08-12T09:10:26.544823+00:00"
+  },
+  "https://czechia.mimusjobs.com/job/nastrojar-formar/": {
+    "result": "success",
+    "site": "Czechia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:31.990215+00:00"
   },
   "https://czechia.mimusjobs.com/job/nocni-expedient-masa-m-z/": {
     "result": "success",
@@ -16510,6 +16774,12 @@
     "site": "Denmark",
     "status": 200,
     "timestamp": "2026-08-25T04:55:42.769101+00:00"
+  },
+  "https://denmark.mimusjobs.com/job/aerospace-defense-business-development-leader/": {
+    "result": "success",
+    "site": "Denmark",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:48.237275+00:00"
   },
   "https://denmark.mimusjobs.com/job/ai-trainer-freelance-data-annotator/": {
     "result": "success",
@@ -17170,6 +17440,12 @@
     "site": "Djibouti",
     "status": 200,
     "timestamp": "2026-10-05T11:48:06.794324+00:00"
+  },
+  "https://djibouti.mimusjobs.com/job/agent-de-support-clientele-international-h-f-8/": {
+    "result": "success",
+    "site": "Djibouti",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:49.387659+00:00"
   },
   "https://djibouti.mimusjobs.com/job/agent-de-support-clientele-international-h-f/": {
     "result": "success",
@@ -18395,6 +18671,12 @@
     "status": 200,
     "timestamp": "2026-09-27T10:17:25.644895+00:00"
   },
+  "https://dominicanrepublic.mimusjobs.com/job/senior-manager-emerging-solutions-shenzhen-guangzhou315196005379/": {
+    "result": "success",
+    "site": "Dominicanrepublic",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:50.550030+00:00"
+  },
   "https://dominicanrepublic.mimusjobs.com/job/senior-software-architect-c-angular-ai-first-govtech-saas-company/": {
     "result": "success",
     "site": "Dominicanrepublic",
@@ -18652,6 +18934,12 @@
     "site": "Ecuador",
     "status": 200,
     "timestamp": "2026-09-08T08:58:39.818021+00:00"
+  },
+  "https://ecuador.mimusjobs.com/job/associate-professional-pre-sales-cisco/": {
+    "result": "success",
+    "site": "Ecuador",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:51.705918+00:00"
   },
   "https://ecuador.mimusjobs.com/job/auxiliar-administrativo-cupo-inclusivo/": {
     "result": "success",
@@ -19607,6 +19895,12 @@
     "status": 200,
     "timestamp": "2026-07-27T14:06:45.543275+00:00"
   },
+  "https://egypt.mimusjobs.com/job/professional-science-tutor-college-prep/": {
+    "result": "success",
+    "site": "Egypt",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:52.887189+00:00"
+  },
   "https://egypt.mimusjobs.com/job/professional-website-content-writer/": {
     "result": "success",
     "site": "Egypt",
@@ -19954,6 +20248,12 @@
     "site": "Elsalvador",
     "status": 200,
     "timestamp": "2026-07-28T11:57:01.506753+00:00"
+  },
+  "https://elsalvador.mimusjobs.com/job/android-engineer-ai-ml-remote-work/": {
+    "result": "success",
+    "site": "Elsalvador",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:54.037316+00:00"
   },
   "https://elsalvador.mimusjobs.com/job/appointment-setter-sdr-latam/": {
     "result": "success",
@@ -20320,6 +20620,12 @@
     "site": "Elsalvador",
     "status": 200,
     "timestamp": "2026-09-27T10:15:46.198855+00:00"
+  },
+  "https://elsalvador.mimusjobs.com/job/marketing-specialist/": {
+    "result": "success",
+    "site": "Elsalvador",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:40.086709+00:00"
   },
   "https://elsalvador.mimusjobs.com/job/mecanico-instrumentista/": {
     "result": "success",
@@ -21533,6 +21839,12 @@
     "status": 200,
     "timestamp": "2026-09-01T09:33:43.621174+00:00"
   },
+  "https://estonia.mimusjobs.com/job/content-marketing-specialist-dach/": {
+    "result": "success",
+    "site": "Estonia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:55.196009+00:00"
+  },
   "https://estonia.mimusjobs.com/job/controller/": {
     "result": "success",
     "site": "Estonia",
@@ -22601,6 +22913,12 @@
     "status": 200,
     "timestamp": "2026-08-20T04:56:47.098010+00:00"
   },
+  "https://ethiopia.mimusjobs.com/job/sales-project-assistant-manager/": {
+    "result": "success",
+    "site": "Ethiopia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:56.348126+00:00"
+  },
   "https://ethiopia.mimusjobs.com/job/sales-project-coordinator-assistant-manager/": {
     "result": "success",
     "site": "Ethiopia",
@@ -23314,6 +23632,12 @@
     "site": "Fiji",
     "status": 200,
     "timestamp": "2026-09-26T09:39:39.905041+00:00"
+  },
+  "https://fiji.mimusjobs.com/job/office-executive/": {
+    "result": "success",
+    "site": "Fiji",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:57.502525+00:00"
   },
   "https://fiji.mimusjobs.com/job/operations-officer-west/": {
     "result": "success",
@@ -24029,6 +24353,12 @@
     "status": 200,
     "timestamp": "2026-09-25T09:50:47.363480+00:00"
   },
+  "https://finland.mimusjobs.com/job/senior-project-manager-ad-finland/": {
+    "result": "success",
+    "site": "Finland",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:58.635403+00:00"
+  },
   "https://finland.mimusjobs.com/job/service-technician-mekaanikko-helsinki-vantaa/": {
     "result": "success",
     "site": "Finland",
@@ -24515,6 +24845,12 @@
     "status": 200,
     "timestamp": "2026-09-22T09:22:37.397058+00:00"
   },
+  "https://france.mimusjobs.com/job/directeur-dagence-assurance-h-f/": {
+    "result": "success",
+    "site": "France",
+    "status": 200,
+    "timestamp": "2026-10-06T12:18:59.784082+00:00"
+  },
   "https://france.mimusjobs.com/job/docentes-en-todas-las-areas-para-vinculacion-en-proyecto-educativo/": {
     "result": "success",
     "site": "France",
@@ -24640,6 +24976,12 @@
     "site": "France",
     "status": 200,
     "timestamp": "2026-08-12T09:08:09.907554+00:00"
+  },
+  "https://france.mimusjobs.com/job/offre-dapprentissage-cap-aepe-micro-creche-a-strasbourg/": {
+    "result": "success",
+    "site": "France",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:44.634461+00:00"
   },
   "https://france.mimusjobs.com/job/on-site-medical-representative/": {
     "result": "success",
@@ -24845,6 +25187,12 @@
     "status": 200,
     "timestamp": "2026-10-01T11:15:15.262014+00:00"
   },
+  "https://gabon.mimusjobs.com/job/remote-french-language-specialist/": {
+    "result": "success",
+    "site": "Gabon",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:00.913379+00:00"
+  },
   "https://gabon.mimusjobs.com/job/stagiaire-assistant-de-direction-h-f/": {
     "result": "success",
     "site": "Gabon",
@@ -24899,6 +25247,18 @@
     "status": 200,
     "timestamp": "2026-07-19T11:06:11.218566+00:00"
   },
+  "https://gambia.mimusjobs.com/job/network-systems-administrator-assistant/": {
+    "result": "success",
+    "site": "Gambia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:10.051173+00:00"
+  },
+  "https://gambia.mimusjobs.com/job/operations-support-coordinator-assistant/": {
+    "result": "success",
+    "site": "Gambia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:02.069329+00:00"
+  },
   "https://gambia.mimusjobs.com/job/professional-statement-evidence-collector/": {
     "result": "success",
     "site": "Gambia",
@@ -24946,6 +25306,12 @@
     "site": "Georgia",
     "status": 200,
     "timestamp": "2026-10-01T11:15:17.505260+00:00"
+  },
+  "https://georgia.mimusjobs.com/job/certified-roof-damage-assessor-for-unlimited-earnings/": {
+    "result": "success",
+    "site": "Georgia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:03.250608+00:00"
   },
   "https://georgia.mimusjobs.com/job/delivery-driver/": {
     "result": "success",
@@ -25144,6 +25510,12 @@
     "site": "Germany",
     "status": 200,
     "timestamp": "2026-08-12T09:08:11.033922+00:00"
+  },
+  "https://germany.mimusjobs.com/job/hausmeister-in-m-w-d/": {
+    "result": "success",
+    "site": "Germany",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:04.401492+00:00"
   },
   "https://germany.mimusjobs.com/job/head-of-engineering-m-f-d/": {
     "result": "success",
@@ -25684,6 +26056,12 @@
     "site": "Ghana",
     "status": 200,
     "timestamp": "2026-07-19T11:03:11.419392+00:00"
+  },
+  "https://ghana.mimusjobs.com/job/invitation-for-consulting-services-to-facilitate-community-engagement-and-capacity/": {
+    "result": "success",
+    "site": "Ghana",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:05.554992+00:00"
   },
   "https://ghana.mimusjobs.com/job/professional-data-annotation-specialist/": {
     "result": "success",
@@ -26309,6 +26687,12 @@
     "status": 200,
     "timestamp": "2026-08-31T10:55:09.184197+00:00"
   },
+  "https://greece.mimusjobs.com/job/spa-manager/": {
+    "result": "success",
+    "site": "Greece",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:06.725153+00:00"
+  },
   "https://greece.mimusjobs.com/job/spa-receptionist/": {
     "result": "success",
     "site": "Greece",
@@ -26657,6 +27041,12 @@
     "status": 200,
     "timestamp": "2026-09-15T09:41:38.972282+00:00"
   },
+  "https://grenada.mimusjobs.com/job/paralegal/": {
+    "result": "success",
+    "site": "Grenada",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:07.880749+00:00"
+  },
   "https://grenada.mimusjobs.com/job/payroll-assistant-temp/": {
     "result": "success",
     "site": "Grenada",
@@ -26842,6 +27232,12 @@
     "site": "Guatemala",
     "status": 200,
     "timestamp": "2026-09-26T09:41:20.153384+00:00"
+  },
+  "https://guatemala.mimusjobs.com/job/accounts-payable-specialist/": {
+    "result": "success",
+    "site": "Guatemala",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:09.017608+00:00"
   },
   "https://guatemala.mimusjobs.com/job/agent-stockroom-agente-de-bodega/": {
     "result": "success",
@@ -28283,6 +28679,12 @@
     "status": 200,
     "timestamp": "2026-08-31T10:56:45.668723+00:00"
   },
+  "https://guineabissau.mimusjobs.com/job/maintenance/": {
+    "result": "success",
+    "site": "Guineabissau",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:10.171375+00:00"
+  },
   "https://guineabissau.mimusjobs.com/job/mecanico-de-manutencao/": {
     "result": "success",
     "site": "Guineabissau",
@@ -28594,6 +28996,12 @@
     "site": "Guyana",
     "status": 200,
     "timestamp": "2026-09-05T08:25:43.850203+00:00"
+  },
+  "https://guyana.mimusjobs.com/job/chief-information-security-officer-n-a/": {
+    "result": "success",
+    "site": "Guyana",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:11.317178+00:00"
   },
   "https://guyana.mimusjobs.com/job/clinic-operations-support/": {
     "result": "success",
@@ -29327,6 +29735,12 @@
     "status": 200,
     "timestamp": "2026-08-04T12:11:09.108358+00:00"
   },
+  "https://haiti.mimusjobs.com/job/general-manager-executive-partnership/": {
+    "result": "success",
+    "site": "Haiti",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:12.463462+00:00"
+  },
   "https://haiti.mimusjobs.com/job/gestionnaire-cotisations-support-adherents-pole-fonction-publique-h-f/": {
     "result": "success",
     "site": "Haiti",
@@ -29782,6 +30196,12 @@
     "site": "Honduras",
     "status": 200,
     "timestamp": "2026-08-25T04:56:01.348915+00:00"
+  },
+  "https://honduras.mimusjobs.com/job/bilingual-over-the-phone-interpreter-english-spanish-honduras/": {
+    "result": "success",
+    "site": "Honduras",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:13.576329+00:00"
   },
   "https://honduras.mimusjobs.com/job/bookkeeper/": {
     "result": "success",
@@ -30395,6 +30815,12 @@
     "status": 200,
     "timestamp": "2026-10-01T11:15:26.512211+00:00"
   },
+  "https://hongkong.mimusjobs.com/job/global-equity-research-associate-greater-china-tech-hong-kong/": {
+    "result": "success",
+    "site": "Hongkong",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:14.765654+00:00"
+  },
   "https://hongkong.mimusjobs.com/job/hong-kong-e-commerce-b2b-key-account-manager/": {
     "result": "success",
     "site": "Hongkong",
@@ -30640,6 +31066,12 @@
     "site": "Hungary",
     "status": 200,
     "timestamp": "2026-07-23T11:43:07.428506+00:00"
+  },
+  "https://hungary.mimusjobs.com/job/direct-response-copywriter-remote/": {
+    "result": "success",
+    "site": "Hungary",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:15.919178+00:00"
   },
   "https://hungary.mimusjobs.com/job/ejszakai-szallodai-recepcios/": {
     "result": "success",
@@ -31343,6 +31775,12 @@
     "status": 200,
     "timestamp": "2026-07-26T10:40:39.746668+00:00"
   },
+  "https://india.mimusjobs.com/job/executive-purchase/": {
+    "result": "success",
+    "site": "India",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:17.071692+00:00"
+  },
   "https://india.mimusjobs.com/job/executive-return-repair/": {
     "result": "success",
     "site": "India",
@@ -31907,6 +32345,12 @@
     "status": 200,
     "timestamp": "2026-10-02T11:06:32.997003+00:00"
   },
+  "https://indonesia.mimusjobs.com/job/staf-penagihan-branch-jambi/": {
+    "result": "success",
+    "site": "Indonesia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:18.223081+00:00"
+  },
   "https://indonesia.mimusjobs.com/job/staff-administration/": {
     "result": "success",
     "site": "Indonesia",
@@ -32357,6 +32801,12 @@
     "status": 200,
     "timestamp": "2026-09-19T08:53:57.994723+00:00"
   },
+  "https://iraq.mimusjobs.com/job/pr-officer-tablet/": {
+    "result": "success",
+    "site": "Iraq",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:19.372080+00:00"
+  },
   "https://iraq.mimusjobs.com/job/process-re-engineering-specialist/": {
     "result": "success",
     "site": "Iraq",
@@ -32560,6 +33010,12 @@
     "site": "Ireland",
     "status": 200,
     "timestamp": "2026-08-27T15:23:02.332220+00:00"
+  },
+  "https://ireland.mimusjobs.com/job/aml-cft-compliance-analyst/": {
+    "result": "success",
+    "site": "Ireland",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:20.524258+00:00"
   },
   "https://ireland.mimusjobs.com/job/analyst-supply-chain/": {
     "result": "success",
@@ -33227,6 +33683,12 @@
     "status": 200,
     "timestamp": "2026-09-30T11:27:45.731958+00:00"
   },
+  "https://israel.mimusjobs.com/job/loadmaster/": {
+    "result": "success",
+    "site": "Israel",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:21.668267+00:00"
+  },
   "https://israel.mimusjobs.com/job/maintenance-staff/": {
     "result": "success",
     "site": "Israel",
@@ -33280,6 +33742,12 @@
     "site": "Italy",
     "status": 200,
     "timestamp": "2026-08-29T11:09:27.048862+00:00"
+  },
+  "https://italy.mimusjobs.com/job/addetto-a-alla-segreteria-e-gestione-documenti/": {
+    "result": "success",
+    "site": "Italy",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:20.433867+00:00"
   },
   "https://italy.mimusjobs.com/job/addetto-a-allaccettazione-info-point/": {
     "result": "success",
@@ -33424,6 +33892,12 @@
     "site": "Italy",
     "status": 200,
     "timestamp": "2026-09-04T08:47:03.326723+00:00"
+  },
+  "https://italy.mimusjobs.com/job/addetto-a-inserimento-dati-per-retail/": {
+    "result": "success",
+    "site": "Italy",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:22.817598+00:00"
   },
   "https://italy.mimusjobs.com/job/addetto-a-inserimento-dati-per-studio-professionale/": {
     "result": "success",
@@ -34180,6 +34654,12 @@
     "site": "Jamaica",
     "status": 200,
     "timestamp": "2026-10-03T10:59:33.511310+00:00"
+  },
+  "https://jamaica.mimusjobs.com/job/e-commerce-sales-outreach-specialist/": {
+    "result": "success",
+    "site": "Jamaica",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:23.938721+00:00"
   },
   "https://jamaica.mimusjobs.com/job/email-marketing-assistant/": {
     "result": "success",
@@ -34961,6 +35441,12 @@
     "status": 200,
     "timestamp": "2026-09-20T09:24:24.358042+00:00"
   },
+  "https://japan.mimusjobs.com/job/jp0001-courier/": {
+    "result": "success",
+    "site": "Japan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:25.122998+00:00"
+  },
   "https://japan.mimusjobs.com/job/jp0001/": {
     "result": "success",
     "site": "Japan",
@@ -35261,6 +35747,12 @@
     "status": 200,
     "timestamp": "2026-10-03T10:59:35.803302+00:00"
   },
+  "https://jordan.mimusjobs.com/job/gateway-agent/": {
+    "result": "success",
+    "site": "Jordan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:12.324211+00:00"
+  },
   "https://jordan.mimusjobs.com/job/security-officer/": {
     "result": "success",
     "site": "Jordan",
@@ -35284,6 +35776,12 @@
     "site": "Jordan",
     "status": 200,
     "timestamp": "2026-10-05T11:48:42.544535+00:00"
+  },
+  "https://jordan.mimusjobs.com/job/training-maintenance-specialist/": {
+    "result": "success",
+    "site": "Jordan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:26.232063+00:00"
   },
   "https://kazakhstan.mimusjobs.com/job/188/": {
     "result": "success",
@@ -35513,6 +36011,12 @@
     "status": 200,
     "timestamp": "2026-09-07T09:16:51.721032+00:00"
   },
+  "https://kazakhstan.mimusjobs.com/job/head-of-user-acquisition/": {
+    "result": "success",
+    "site": "Kazakhstan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:25.045479+00:00"
+  },
   "https://kazakhstan.mimusjobs.com/job/hm-10-40-mega-alma-ata/": {
     "result": "success",
     "site": "Kazakhstan",
@@ -35662,6 +36166,12 @@
     "site": "Kazakhstan",
     "status": 200,
     "timestamp": "2026-08-02T10:37:58.606243+00:00"
+  },
+  "https://kazakhstan.mimusjobs.com/job/nutanix-engineer-networking-it-support-engineer-kazakhstan/": {
+    "result": "success",
+    "site": "Kazakhstan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:27.392718+00:00"
   },
   "https://kazakhstan.mimusjobs.com/job/operations-analyst-12-month-contract/": {
     "result": "success",
@@ -36635,6 +37145,12 @@
     "status": 200,
     "timestamp": "2026-09-26T09:41:04.447621+00:00"
   },
+  "https://kuwait.mimusjobs.com/job/rpa-munitions-systems-technician-i-deployment-pool/": {
+    "result": "success",
+    "site": "Kuwait",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:28.544187+00:00"
+  },
   "https://kuwait.mimusjobs.com/job/senior-accounting-support-specialist/": {
     "result": "success",
     "site": "Kuwait",
@@ -36946,6 +37462,12 @@
     "site": "Kyrgyzstan",
     "status": 200,
     "timestamp": "2026-07-28T11:57:30.572825+00:00"
+  },
+  "https://kyrgyzstan.mimusjobs.com/job/consumer-trade-programs-effectiveness-specialist-kg/": {
+    "result": "success",
+    "site": "Kyrgyzstan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:29.703274+00:00"
   },
   "https://kyrgyzstan.mimusjobs.com/job/coordinator-special-events/": {
     "result": "success",
@@ -38183,6 +38705,12 @@
     "status": 200,
     "timestamp": "2026-09-25T09:49:45.790802+00:00"
   },
+  "https://laos.mimusjobs.com/job/university-graduate-administrative-fellowship-program/": {
+    "result": "success",
+    "site": "Laos",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:30.861879+00:00"
+  },
   "https://laos.mimusjobs.com/job/vacataire-observatoire-anguilles-oir-et-selune-2/": {
     "result": "success",
     "site": "Laos",
@@ -38735,6 +39263,12 @@
     "status": 200,
     "timestamp": "2026-09-05T08:25:59.471368+00:00"
   },
+  "https://latvia.mimusjobs.com/job/travel-advisor-for-sas-with-danish-relocation-to-warsaw/": {
+    "result": "success",
+    "site": "Latvia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:32.007540+00:00"
+  },
   "https://latvia.mimusjobs.com/job/unit-manager-risk-quantification-automation/": {
     "result": "success",
     "site": "Latvia",
@@ -38836,6 +39370,12 @@
     "site": "Lebanon",
     "status": 200,
     "timestamp": "2026-07-19T11:04:27.913384+00:00"
+  },
+  "https://lebanon.mimusjobs.com/job/senior-android-software-engineer/": {
+    "result": "success",
+    "site": "Lebanon",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:33.159725+00:00"
   },
   "https://lebanon.mimusjobs.com/job/senior-performance-marketing-professional-media-strategist/": {
     "result": "success",
@@ -39161,6 +39701,12 @@
     "status": 200,
     "timestamp": "2026-09-14T10:00:19.081954+00:00"
   },
+  "https://liberia.mimusjobs.com/job/member-services/": {
+    "result": "success",
+    "site": "Liberia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:21.587348+00:00"
+  },
   "https://liberia.mimusjobs.com/job/metteur-en-service-dequipements-electriques-h-f-guyane/": {
     "result": "success",
     "site": "Liberia",
@@ -39250,6 +39796,12 @@
     "site": "Liberia",
     "status": 200,
     "timestamp": "2026-07-29T12:14:36.591097+00:00"
+  },
+  "https://liberia.mimusjobs.com/job/prompt-rating-for-global-languages/": {
+    "result": "success",
+    "site": "Liberia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:34.321800+00:00"
   },
   "https://liberia.mimusjobs.com/job/real-estate-agent/": {
     "result": "success",
@@ -39424,6 +39976,12 @@
     "site": "Libya",
     "status": 200,
     "timestamp": "2026-10-01T11:15:47.947471+00:00"
+  },
+  "https://libya.mimusjobs.com/job/production-engineer-front-end-technology/": {
+    "result": "success",
+    "site": "Libya",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:35.472654+00:00"
   },
   "https://libya.mimusjobs.com/job/senior-customer-support-specialist/": {
     "result": "success",
@@ -39761,6 +40319,12 @@
     "status": 200,
     "timestamp": "2026-08-09T06:37:21.967228+00:00"
   },
+  "https://liechtenstein.mimusjobs.com/job/materials-scientist/": {
+    "result": "success",
+    "site": "Liechtenstein",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:38.938379+00:00"
+  },
   "https://liechtenstein.mimusjobs.com/job/operational-excellence-lean-manager-all-genders/": {
     "result": "success",
     "site": "Liechtenstein",
@@ -39965,6 +40529,12 @@
     "status": 200,
     "timestamp": "2026-08-04T12:11:26.317017+00:00"
   },
+  "https://liechtenstein.mimusjobs.com/job/wissenschaftlicher-assistentin-doktorandin-im-bereich-volkswirtschaftslehre-50-m-w-d-2/": {
+    "result": "success",
+    "site": "Liechtenstein",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:36.664122+00:00"
+  },
   "https://liechtenstein.mimusjobs.com/job/wissenschaftlicher-assistentin-doktorandin-im-bereich-volkswirtschaftslehre-50-m-w-d/": {
     "result": "success",
     "site": "Liechtenstein",
@@ -40090,6 +40660,12 @@
     "site": "Luxembourg",
     "status": 200,
     "timestamp": "2026-08-16T05:26:31.974475+00:00"
+  },
+  "https://luxembourg.mimusjobs.com/job/conducteur-de-travaux-tce/": {
+    "result": "success",
+    "site": "Luxembourg",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:37.820016+00:00"
   },
   "https://luxembourg.mimusjobs.com/job/conseiller-ere-service-apres-vente-mersch/": {
     "result": "success",
@@ -40643,6 +41219,12 @@
     "status": 200,
     "timestamp": "2026-07-19T11:03:15.840251+00:00"
   },
+  "https://macao.mimusjobs.com/job/guest-experience-center-representative/": {
+    "result": "success",
+    "site": "Macao",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:38.972720+00:00"
+  },
   "https://macao.mimusjobs.com/job/join-our-talent-community-for-future-opportunities/": {
     "result": "success",
     "site": "Macao",
@@ -40690,6 +41272,12 @@
     "site": "Macao",
     "status": 200,
     "timestamp": "2026-07-19T11:04:29.002556+00:00"
+  },
+  "https://macao.mimusjobs.com/job/water-wastewater-project-management-professional/": {
+    "result": "success",
+    "site": "Macao",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:29.684720+00:00"
   },
   "https://macedonia.mimusjobs.com/job/100/": {
     "result": "success",
@@ -41050,6 +41638,12 @@
     "site": "Macedonia",
     "status": 200,
     "timestamp": "2026-07-24T11:34:02.285013+00:00"
+  },
+  "https://macedonia.mimusjobs.com/job/senior-data-engineer/": {
+    "result": "success",
+    "site": "Macedonia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:40.130280+00:00"
   },
   "https://macedonia.mimusjobs.com/job/senior-distributed-systems-engineer-remote-work-ref293798/": {
     "result": "success",
@@ -41813,6 +42407,12 @@
     "status": 200,
     "timestamp": "2026-09-28T11:08:19.414299+00:00"
   },
+  "https://madagascar.mimusjobs.com/job/standardiste-bilingue-_-h-f-5/": {
+    "result": "success",
+    "site": "Madagascar",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:41.276673+00:00"
+  },
   "https://madagascar.mimusjobs.com/job/standardiste-bilingue-_-h-f/": {
     "result": "success",
     "site": "Madagascar",
@@ -41854,6 +42454,12 @@
     "site": "Malawi",
     "status": 200,
     "timestamp": "2026-07-19T11:05:41.867588+00:00"
+  },
+  "https://malawi.mimusjobs.com/job/director-of-executive-operations/": {
+    "result": "success",
+    "site": "Malawi",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:42.411081+00:00"
   },
   "https://malawi.mimusjobs.com/job/efficient-courier-and-logistics-specialist/": {
     "result": "success",
@@ -41927,6 +42533,12 @@
     "status": 200,
     "timestamp": "2026-10-03T10:59:54.162557+00:00"
   },
+  "https://malaysia.mimusjobs.com/job/graduate-talent-acquisition-specialist/": {
+    "result": "success",
+    "site": "Malaysia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:43.565623+00:00"
+  },
   "https://malaysia.mimusjobs.com/job/head-of-investment-solutions/": {
     "result": "success",
     "site": "Malaysia",
@@ -41992,6 +42604,18 @@
     "site": "Maldives",
     "status": 200,
     "timestamp": "2026-07-19T11:05:07.107529+00:00"
+  },
+  "https://maldives.mimusjobs.com/job/professional-translator-remote-per-task-basis/": {
+    "result": "success",
+    "site": "Maldives",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:11.173603+00:00"
+  },
+  "https://maldives.mimusjobs.com/job/program-officer-for-australia-awards-in-maldives/": {
+    "result": "success",
+    "site": "Maldives",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:44.709974+00:00"
   },
   "https://maldives.mimusjobs.com/job/remote-communications-expert-freelance/": {
     "result": "success",
@@ -42142,6 +42766,12 @@
     "site": "Mali",
     "status": 200,
     "timestamp": "2026-10-03T10:59:56.417458+00:00"
+  },
+  "https://mali.mimusjobs.com/job/charge-de-clientele-bilingue-anglais-francais-100-teletravail-6/": {
+    "result": "success",
+    "site": "Mali",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:45.858742+00:00"
   },
   "https://mali.mimusjobs.com/job/charge-de-clientele-bilingue-anglais-francais-100-teletravail/": {
     "result": "success",
@@ -43265,6 +43895,12 @@
     "status": 200,
     "timestamp": "2026-09-04T08:48:32.278001+00:00"
   },
+  "https://malta.mimusjobs.com/job/usa-asset-protection-operations-coach/": {
+    "result": "success",
+    "site": "Malta",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:47.056033+00:00"
+  },
   "https://malta.mimusjobs.com/job/usa-optician-dual-license-full-time-zanesville-oh-29-00-usd-hourly/": {
     "result": "success",
     "site": "Malta",
@@ -43625,6 +44261,12 @@
     "status": 200,
     "timestamp": "2026-09-29T10:55:11.544638+00:00"
   },
+  "https://marshallislands.mimusjobs.com/job/plumber-v/": {
+    "result": "success",
+    "site": "Marshallislands",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:48.216696+00:00"
+  },
   "https://marshallislands.mimusjobs.com/job/port-captain/": {
     "result": "success",
     "site": "Marshallislands",
@@ -43871,6 +44513,12 @@
     "status": 200,
     "timestamp": "2026-09-30T11:28:13.834960+00:00"
   },
+  "https://mauritania.mimusjobs.com/job/junior-human-resources-associate/": {
+    "result": "success",
+    "site": "Mauritania",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:49.367769+00:00"
+  },
   "https://mauritania.mimusjobs.com/job/senior-human-resources-leadership-specialist/": {
     "result": "success",
     "site": "Mauritania",
@@ -43906,6 +44554,12 @@
     "site": "Mauritius",
     "status": 200,
     "timestamp": "2026-10-01T11:15:59.190018+00:00"
+  },
+  "https://mauritius.mimusjobs.com/job/payroll-specialist/": {
+    "result": "success",
+    "site": "Mauritius",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:50.526216+00:00"
   },
   "https://mauritius.mimusjobs.com/job/private-household-steward-mauritius/": {
     "result": "success",
@@ -44081,6 +44735,12 @@
     "status": 200,
     "timestamp": "2026-08-10T09:24:32.397024+00:00"
   },
+  "https://mexico.mimusjobs.com/job/auxiliar-de-compras/": {
+    "result": "success",
+    "site": "Mexico",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:51.676691+00:00"
+  },
   "https://mexico.mimusjobs.com/job/auxiliar-de-farmacia/": {
     "result": "success",
     "site": "Mexico",
@@ -44152,6 +44812,12 @@
     "site": "Mexico",
     "status": 200,
     "timestamp": "2026-09-29T10:55:12.655789+00:00"
+  },
+  "https://mexico.mimusjobs.com/job/chofer-de-3-5-traslado-de-valores/": {
+    "result": "success",
+    "site": "Mexico",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:16.970012+00:00"
   },
   "https://mexico.mimusjobs.com/job/consultor-de-talento-y-cultura/": {
     "result": "success",
@@ -45233,6 +45899,12 @@
     "status": 200,
     "timestamp": "2026-09-02T08:51:35.922763+00:00"
   },
+  "https://moldova.mimusjobs.com/job/native-german-customer-support-consultant-remote/": {
+    "result": "success",
+    "site": "Moldova",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:52.830719+00:00"
+  },
   "https://moldova.mimusjobs.com/job/personal-curaenie-bali-f-m/": {
     "result": "success",
     "site": "Moldova",
@@ -45622,6 +46294,12 @@
     "site": "Monaco",
     "status": 200,
     "timestamp": "2026-08-07T08:41:08.899682+00:00"
+  },
+  "https://monaco.mimusjobs.com/job/collaborateur-charge-des-ventes-h-f/": {
+    "result": "success",
+    "site": "Monaco",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:53.987306+00:00"
   },
   "https://monaco.mimusjobs.com/job/commercial-sedentaire-drones-h-f/": {
     "result": "success",
@@ -46055,6 +46733,12 @@
     "status": 200,
     "timestamp": "2026-10-01T11:16:03.690767+00:00"
   },
+  "https://mongolia.mimusjobs.com/job/associate-tax-professional-intern/": {
+    "result": "success",
+    "site": "Mongolia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:55.136753+00:00"
+  },
   "https://mongolia.mimusjobs.com/job/backend-engineer-net-developer/": {
     "result": "success",
     "site": "Mongolia",
@@ -46126,6 +46810,12 @@
     "site": "Mongolia",
     "status": 200,
     "timestamp": "2026-10-03T11:00:05.617893+00:00"
+  },
+  "https://morocco.mimusjobs.com/job/bagagiste-voiturier/": {
+    "result": "success",
+    "site": "Morocco",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:56.264197+00:00"
   },
   "https://morocco.mimusjobs.com/job/barista/": {
     "result": "success",
@@ -46217,6 +46907,12 @@
     "status": 200,
     "timestamp": "2026-10-03T11:00:07.908798+00:00"
   },
+  "https://mozambique.mimusjobs.com/job/public-sector-internship-budget-transparency-citizen-engagement-in-mozambique/": {
+    "result": "success",
+    "site": "Mozambique",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:57.415550+00:00"
+  },
   "https://mozambique.mimusjobs.com/job/tecnico-de-mineracao-operacoes-e-logistica/": {
     "result": "success",
     "site": "Mozambique",
@@ -46252,6 +46948,12 @@
     "site": "Myanmar",
     "status": 200,
     "timestamp": "2026-07-19T11:04:00.721301+00:00"
+  },
+  "https://myanmar.mimusjobs.com/job/marketing-demand-creation-specialist-mag-way/": {
+    "result": "success",
+    "site": "Myanmar",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:58.594287+00:00"
   },
   "https://myanmar.mimusjobs.com/job/project-officer-4/": {
     "result": "success",
@@ -46318,6 +47020,12 @@
     "site": "Namibia",
     "status": 200,
     "timestamp": "2026-07-19T11:06:23.148213+00:00"
+  },
+  "https://namibia.mimusjobs.com/job/multi-skilled-maintenance-and-repair-technician-x3/": {
+    "result": "success",
+    "site": "Namibia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:19:59.743749+00:00"
   },
   "https://namibia.mimusjobs.com/job/professional-sales-representative-full-time/": {
     "result": "success",
@@ -46451,6 +47159,12 @@
     "status": 200,
     "timestamp": "2026-10-02T11:07:14.666856+00:00"
   },
+  "https://nepal.mimusjobs.com/job/tender-notice-issuance-officer/": {
+    "result": "success",
+    "site": "Nepal",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:00.914373+00:00"
+  },
   "https://netherlands.mimusjobs.com/job/190/": {
     "result": "success",
     "site": "Netherlands",
@@ -46474,6 +47188,12 @@
     "site": "Netherlands",
     "status": 200,
     "timestamp": "2026-08-27T15:21:29.739285+00:00"
+  },
+  "https://netherlands.mimusjobs.com/job/account-manager/": {
+    "result": "success",
+    "site": "Netherlands",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:02.067539+00:00"
   },
   "https://netherlands.mimusjobs.com/job/accountant/": {
     "result": "success",
@@ -47609,6 +48329,12 @@
     "status": 200,
     "timestamp": "2026-09-29T10:56:42.505096+00:00"
   },
+  "https://nicaragua.mimusjobs.com/job/analista-de-subrogaciones/": {
+    "result": "success",
+    "site": "Nicaragua",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:04.380027+00:00"
+  },
   "https://nicaragua.mimusjobs.com/job/asesor-legal-cumplimiento-11799-48720/": {
     "result": "success",
     "site": "Nicaragua",
@@ -48449,6 +49175,12 @@
     "status": 200,
     "timestamp": "2026-09-16T09:28:30.629976+00:00"
   },
+  "https://niger.mimusjobs.com/job/entry-level-construction-project-manager-charleston-2025-graduate/": {
+    "result": "success",
+    "site": "Niger",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:05.541095+00:00"
+  },
   "https://niger.mimusjobs.com/job/entry-level-construction-project-manager-charleston-2025/": {
     "result": "success",
     "site": "Niger",
@@ -48886,6 +49618,12 @@
     "site": "Nigeria",
     "status": 200,
     "timestamp": "2026-07-19T11:05:51.649935+00:00"
+  },
+  "https://nigeria.mimusjobs.com/job/marketing-associate/": {
+    "result": "success",
+    "site": "Nigeria",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:06.696598+00:00"
   },
   "https://nigeria.mimusjobs.com/job/responsible-business-and-child-rights-intern/": {
     "result": "success",
@@ -49391,6 +50129,12 @@
     "status": 200,
     "timestamp": "2026-07-30T11:49:21.726889+00:00"
   },
+  "https://norway.mimusjobs.com/job/sales-manager/": {
+    "result": "success",
+    "site": "Norway",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:07.845555+00:00"
+  },
   "https://norway.mimusjobs.com/job/selger-heltid-deltid/": {
     "result": "success",
     "site": "Norway",
@@ -49625,6 +50369,12 @@
     "status": 200,
     "timestamp": "2026-10-03T11:00:19.379302+00:00"
   },
+  "https://oman.mimusjobs.com/job/procurement-and-supply-chain-manager/": {
+    "result": "success",
+    "site": "Oman",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:08.985416+00:00"
+  },
   "https://oman.mimusjobs.com/job/professional-technical-writer-and-documentation-specialist/": {
     "result": "success",
     "site": "Oman",
@@ -49714,6 +50464,12 @@
     "site": "Pakistan",
     "status": 200,
     "timestamp": "2026-07-21T11:40:57.694617+00:00"
+  },
+  "https://pakistan.mimusjobs.com/job/associate-growth-account-executive/": {
+    "result": "success",
+    "site": "Pakistan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:10.131939+00:00"
   },
   "https://pakistan.mimusjobs.com/job/attendant/": {
     "result": "success",
@@ -49924,6 +50680,12 @@
     "site": "Pakistan",
     "status": 200,
     "timestamp": "2026-08-27T15:22:35.895235+00:00"
+  },
+  "https://pakistan.mimusjobs.com/job/head-of-finance/": {
+    "result": "success",
+    "site": "Pakistan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:14.657865+00:00"
   },
   "https://pakistan.mimusjobs.com/job/indirect-tax-consultant-nearshore-islamabad/": {
     "result": "success",
@@ -51059,6 +51821,12 @@
     "status": 200,
     "timestamp": "2026-08-12T09:08:55.141210+00:00"
   },
+  "https://panama.mimusjobs.com/job/transaction-coordinator/": {
+    "result": "success",
+    "site": "Panama",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:11.291397+00:00"
+  },
   "https://panama.mimusjobs.com/job/virtual-assistant/": {
     "result": "success",
     "site": "Panama",
@@ -51124,6 +51892,12 @@
     "site": "Papuanewguinea",
     "status": 200,
     "timestamp": "2026-08-22T04:54:52.498470+00:00"
+  },
+  "https://papuanewguinea.mimusjobs.com/job/budget-and-compliance-officer-ug/": {
+    "result": "success",
+    "site": "Papuanewguinea",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:12.446649+00:00"
   },
   "https://papuanewguinea.mimusjobs.com/job/budget-finance-manager/": {
     "result": "success",
@@ -51478,6 +52252,12 @@
     "site": "Papuanewguinea",
     "status": 200,
     "timestamp": "2026-07-27T14:06:58.809163+00:00"
+  },
+  "https://papuanewguinea.mimusjobs.com/job/police-canine-program-advisor/": {
+    "result": "success",
+    "site": "Papuanewguinea",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:22.738858+00:00"
   },
   "https://papuanewguinea.mimusjobs.com/job/power-pack-coordinator/": {
     "result": "success",
@@ -51892,6 +52672,12 @@
     "site": "Paraguay",
     "status": 200,
     "timestamp": "2026-09-01T09:34:29.815364+00:00"
+  },
+  "https://paraguay.mimusjobs.com/job/diagnostic-technician-key-whitman-eye-center-dallas/": {
+    "result": "success",
+    "site": "Paraguay",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:13.614540+00:00"
   },
   "https://paraguay.mimusjobs.com/job/disenador-de-sistemas-electricos/": {
     "result": "success",
@@ -52895,6 +53681,12 @@
     "status": 200,
     "timestamp": "2026-08-26T04:58:50.818499+00:00"
   },
+  "https://peru.mimusjobs.com/job/zona-este-impulsadoras-degustadora-s-90-por-dia-fines-de-semana-autoservicios/": {
+    "result": "success",
+    "site": "Peru",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:14.765091+00:00"
+  },
   "https://philippines.mimusjobs.com/job/director-of-leadership-development/": {
     "result": "success",
     "site": "Philippines",
@@ -52912,6 +53704,12 @@
     "site": "Philippines",
     "status": 200,
     "timestamp": "2026-10-02T11:07:29.191408+00:00"
+  },
+  "https://philippines.mimusjobs.com/job/retail-cashier-victory-mall-plaza/": {
+    "result": "success",
+    "site": "Philippines",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:15.917491+00:00"
   },
   "https://philippines.mimusjobs.com/job/senior-outbound-verification-specialist/": {
     "result": "success",
@@ -53116,6 +53914,12 @@
     "site": "Poland",
     "status": 200,
     "timestamp": "2026-09-25T09:50:04.830738+00:00"
+  },
+  "https://poland.mimusjobs.com/job/junior-software-engineer-m-f-d/": {
+    "result": "success",
+    "site": "Poland",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:17.086330+00:00"
   },
   "https://poland.mimusjobs.com/job/kasjer-sprzedawca/": {
     "result": "success",
@@ -54089,6 +54893,12 @@
     "status": 200,
     "timestamp": "2026-08-12T09:10:39.789581+00:00"
   },
+  "https://portugal.mimusjobs.com/job/order-management-specialist/": {
+    "result": "success",
+    "site": "Portugal",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:18.239489+00:00"
+  },
   "https://portugal.mimusjobs.com/job/packaging-coordinator-europe/": {
     "result": "success",
     "site": "Portugal",
@@ -54328,6 +55138,12 @@
     "site": "Qatar",
     "status": 200,
     "timestamp": "2026-07-19T11:04:05.079918+00:00"
+  },
+  "https://qatar.mimusjobs.com/job/professional-receptionist-and-office-coordinator/": {
+    "result": "success",
+    "site": "Qatar",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:19.388114+00:00"
   },
   "https://qatar.mimusjobs.com/job/qualified-pool-lifeguards-team-of-2-males-2-females/": {
     "result": "success",
@@ -54857,6 +55673,12 @@
     "status": 200,
     "timestamp": "2026-08-22T04:53:22.123000+00:00"
   },
+  "https://romania.mimusjobs.com/job/personal-curaenie-navodari-mamaia-nord-f-m/": {
+    "result": "success",
+    "site": "Romania",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:34.289550+00:00"
+  },
   "https://romania.mimusjobs.com/job/pharmacist/": {
     "result": "success",
     "site": "Romania",
@@ -55030,6 +55852,12 @@
     "site": "Romania",
     "status": 200,
     "timestamp": "2026-09-27T10:16:43.496086+00:00"
+  },
+  "https://romania.mimusjobs.com/job/warehouse-responsible-gestionar-buzau/": {
+    "result": "success",
+    "site": "Romania",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:20.568289+00:00"
   },
   "https://romania.mimusjobs.com/job/workday-hcm-consultant-deloitte-technology-delivery-center/": {
     "result": "success",
@@ -55276,6 +56104,12 @@
     "site": "Russia",
     "status": 200,
     "timestamp": "2026-08-12T09:10:29.853146+00:00"
+  },
+  "https://russia.mimusjobs.com/job/engineering-manager-back-end-generative-ai-bangkok-based-relocation-provided/": {
+    "result": "success",
+    "site": "Russia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:21.709927+00:00"
   },
   "https://russia.mimusjobs.com/job/engineering-manager-in-back-end-bangkok-based-relocation-provided/": {
     "result": "success",
@@ -55750,6 +56584,12 @@
     "site": "Rwanda",
     "status": 200,
     "timestamp": "2026-08-18T05:35:11.464926+00:00"
+  },
+  "https://rwanda.mimusjobs.com/job/communications-associate-npsa-7/": {
+    "result": "success",
+    "site": "Rwanda",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:22.863704+00:00"
   },
   "https://rwanda.mimusjobs.com/job/construction-site-quantity-surveyor/": {
     "result": "success",
@@ -57089,6 +57929,12 @@
     "status": 200,
     "timestamp": "2026-08-04T12:11:56.359226+00:00"
   },
+  "https://sanmarino.mimusjobs.com/job/delivery-specialist/": {
+    "result": "success",
+    "site": "Sanmarino",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:24.018948+00:00"
+  },
   "https://sanmarino.mimusjobs.com/job/dept-asst-aula-student-affairs-oiesa-work-study/": {
     "result": "success",
     "site": "Sanmarino",
@@ -57196,6 +58042,12 @@
     "site": "Sanmarino",
     "status": 200,
     "timestamp": "2026-08-11T08:22:48.960024+00:00"
+  },
+  "https://sanmarino.mimusjobs.com/job/grocery-clerk-213-lancaster/": {
+    "result": "success",
+    "site": "Sanmarino",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:15.806838+00:00"
   },
   "https://sanmarino.mimusjobs.com/job/head-custodian-mot-open-to-ousd-employees-only/": {
     "result": "success",
@@ -57785,6 +58637,12 @@
     "status": 200,
     "timestamp": "2026-07-19T11:04:42.075943+00:00"
   },
+  "https://saudiarabia.mimusjobs.com/job/director-of-healthcare-operations-management/": {
+    "result": "success",
+    "site": "Saudiarabia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:25.137779+00:00"
+  },
   "https://saudiarabia.mimusjobs.com/job/facilities-and-maintenance-operations-manager/": {
     "result": "success",
     "site": "Saudiarabia",
@@ -57887,6 +58745,12 @@
     "status": 200,
     "timestamp": "2026-10-01T11:16:34.092244+00:00"
   },
+  "https://senegal.mimusjobs.com/job/intern-supply-chain/": {
+    "result": "success",
+    "site": "Senegal",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:26.253892+00:00"
+  },
   "https://senegal.mimusjobs.com/job/people-experience-hr-business-partner/": {
     "result": "success",
     "site": "Senegal",
@@ -57952,6 +58816,12 @@
     "site": "Serbia",
     "status": 200,
     "timestamp": "2026-08-11T08:23:36.096530+00:00"
+  },
+  "https://serbia.mimusjobs.com/job/business-analyst-specialist-financial-services/": {
+    "result": "success",
+    "site": "Serbia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:42.382098+00:00"
   },
   "https://serbia.mimusjobs.com/job/business-assistant-oncology-rare-disease-serbia/": {
     "result": "success",
@@ -58493,6 +59363,12 @@
     "status": 200,
     "timestamp": "2026-10-05T11:49:41.780028+00:00"
   },
+  "https://serbia.mimusjobs.com/job/senior-lead-research-scientist/": {
+    "result": "success",
+    "site": "Serbia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:27.398998+00:00"
+  },
   "https://serbia.mimusjobs.com/job/senior-lead-sap-cap-node-js-developer/": {
     "result": "success",
     "site": "Serbia",
@@ -58667,6 +59543,12 @@
     "status": 200,
     "timestamp": "2026-10-02T11:07:42.702461+00:00"
   },
+  "https://seychelles.mimusjobs.com/job/housekeeping-attendant-guest-room-services/": {
+    "result": "success",
+    "site": "Seychelles",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:28.550550+00:00"
+  },
   "https://seychelles.mimusjobs.com/job/senior-protective-services-specialist/": {
     "result": "success",
     "site": "Seychelles",
@@ -58714,6 +59596,12 @@
     "site": "Sierraleone",
     "status": 200,
     "timestamp": "2026-07-19T11:05:55.985711+00:00"
+  },
+  "https://sierraleone.mimusjobs.com/job/professional-inside-sales-representative/": {
+    "result": "success",
+    "site": "Sierraleone",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:29.703921+00:00"
   },
   "https://sierraleone.mimusjobs.com/job/public-health-community-coordinator/": {
     "result": "success",
@@ -58774,6 +59662,12 @@
     "site": "Singapore",
     "status": 200,
     "timestamp": "2026-10-05T11:49:45.126028+00:00"
+  },
+  "https://singapore.mimusjobs.com/job/peoplesoft-developer/": {
+    "result": "success",
+    "site": "Singapore",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:30.887582+00:00"
   },
   "https://singapore.mimusjobs.com/job/professional-burmese-language-freelance-transcriptionist/": {
     "result": "success",
@@ -59236,6 +60130,12 @@
     "site": "Slovakia",
     "status": 200,
     "timestamp": "2026-09-27T10:18:11.213688+00:00"
+  },
+  "https://slovakia.mimusjobs.com/job/senior-project-manager-delivery/": {
+    "result": "success",
+    "site": "Slovakia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:32.029504+00:00"
   },
   "https://slovakia.mimusjobs.com/job/senior-sales-engineer-cbs/": {
     "result": "success",
@@ -59723,6 +60623,12 @@
     "status": 200,
     "timestamp": "2026-09-28T11:08:48.616879+00:00"
   },
+  "https://slovenia.mimusjobs.com/job/senior-data-scientist-id70128/": {
+    "result": "success",
+    "site": "Slovenia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:33.156129+00:00"
+  },
   "https://slovenia.mimusjobs.com/job/senior-distributed-systems-engineer-java-remote-work-ref290109/": {
     "result": "success",
     "site": "Slovenia",
@@ -60197,6 +61103,12 @@
     "status": 200,
     "timestamp": "2026-09-27T10:16:52.590886+00:00"
   },
+  "https://somalia.mimusjobs.com/job/fashion-design-and-garment-construction/": {
+    "result": "success",
+    "site": "Somalia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:34.301525+00:00"
+  },
   "https://somalia.mimusjobs.com/job/food-agribusiness/": {
     "result": "success",
     "site": "Somalia",
@@ -60557,6 +61469,12 @@
     "status": 200,
     "timestamp": "2026-10-01T11:16:41.961339+00:00"
   },
+  "https://southafrica.mimusjobs.com/job/operations-manager-tubas-crossing-mall-limpopo-3-month-contract/": {
+    "result": "success",
+    "site": "Southafrica",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:35.424240+00:00"
+  },
   "https://southafrica.mimusjobs.com/job/regional-sales-engineer-rosenberg-area/": {
     "result": "success",
     "site": "Southafrica",
@@ -60622,6 +61540,12 @@
     "site": "Southkorea",
     "status": 200,
     "timestamp": "2026-10-01T11:17:40.579779+00:00"
+  },
+  "https://southkorea.mimusjobs.com/job/remote-investment-banking-associate/": {
+    "result": "success",
+    "site": "Southkorea",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:36.572679+00:00"
   },
   "https://southkorea.mimusjobs.com/job/supply-chain-operations-coordinator/": {
     "result": "success",
@@ -61121,6 +62045,12 @@
     "status": 200,
     "timestamp": "2026-09-04T08:48:47.654266+00:00"
   },
+  "https://spain.mimusjobs.com/job/administrativo-a-de-apoyo-a-proyectos-nucleares/": {
+    "result": "success",
+    "site": "Spain",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:35.449731+00:00"
+  },
   "https://spain.mimusjobs.com/job/ajudant-a-de-cuina-o-marmito-na-jornada-completa-a-premia-de-mar/": {
     "result": "success",
     "site": "Spain",
@@ -61150,6 +62080,12 @@
     "site": "Spain",
     "status": 200,
     "timestamp": "2026-08-30T10:05:05.072322+00:00"
+  },
+  "https://spain.mimusjobs.com/job/asesor-a-laboral-asesoria/": {
+    "result": "success",
+    "site": "Spain",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:37.730035+00:00"
   },
   "https://spain.mimusjobs.com/job/assistant-international-masters-full-time/": {
     "result": "success",
@@ -61721,6 +62657,12 @@
     "status": 200,
     "timestamp": "2026-10-05T11:49:52.954033+00:00"
   },
+  "https://srilanka.mimusjobs.com/job/professional-service-advisor-warranty-specialist/": {
+    "result": "success",
+    "site": "Srilanka",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:38.877728+00:00"
+  },
   "https://srilanka.mimusjobs.com/job/regional-sales-development-deputy-general-manager/": {
     "result": "success",
     "site": "Srilanka",
@@ -61972,6 +62914,12 @@
     "site": "Sudan",
     "status": 200,
     "timestamp": "2026-08-31T10:56:18.276783+00:00"
+  },
+  "https://sudan.mimusjobs.com/job/information-management-officer/": {
+    "result": "success",
+    "site": "Sudan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:40.033366+00:00"
   },
   "https://sudan.mimusjobs.com/job/international-donor-reporting-and-proposal-writing-consultancy-services-wash-section-7-months-khartoum-sudan-internationals-only-home-based-594179/": {
     "result": "success",
@@ -62441,6 +63389,18 @@
     "status": 200,
     "timestamp": "2026-09-05T08:27:25.792785+00:00"
   },
+  "https://suriname.mimusjobs.com/job/global-supply-chain-network-manager/": {
+    "result": "success",
+    "site": "Suriname",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:41.195298+00:00"
+  },
+  "https://suriname.mimusjobs.com/job/head-of-business-development-europe/": {
+    "result": "success",
+    "site": "Suriname",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:26.231692+00:00"
+  },
   "https://suriname.mimusjobs.com/job/hulpverlener-alarmcentrale/": {
     "result": "success",
     "site": "Suriname",
@@ -62698,6 +63658,12 @@
     "site": "Suriname",
     "status": 200,
     "timestamp": "2026-07-25T10:33:26.659932+00:00"
+  },
+  "https://switzerland.mimusjobs.com/job/account-manager-partner-success-africa/": {
+    "result": "success",
+    "site": "Switzerland",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:42.377113+00:00"
   },
   "https://switzerland.mimusjobs.com/job/approvisionneur-et-coordinateur-de-stock/": {
     "result": "success",
@@ -63647,6 +64613,12 @@
     "status": 200,
     "timestamp": "2026-08-28T16:21:02.174352+00:00"
   },
+  "https://syria.mimusjobs.com/job/hr-specialist/": {
+    "result": "success",
+    "site": "Syria",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:43.529123+00:00"
+  },
   "https://syria.mimusjobs.com/job/human-resources-manager/": {
     "result": "success",
     "site": "Syria",
@@ -64523,6 +65495,12 @@
     "status": 200,
     "timestamp": "2026-08-13T09:14:03.867028+00:00"
   },
+  "https://taiwan.mimusjobs.com/job/senior-product-migration-specialist/": {
+    "result": "success",
+    "site": "Taiwan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:44.673515+00:00"
+  },
   "https://taiwan.mimusjobs.com/job/senior-program-management-associate/": {
     "result": "success",
     "site": "Taiwan",
@@ -64840,6 +65818,12 @@
     "site": "Tajikistan",
     "status": 200,
     "timestamp": "2026-10-05T11:49:59.682866+00:00"
+  },
+  "https://tajikistan.mimusjobs.com/job/227/": {
+    "result": "success",
+    "site": "Tajikistan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:45.805721+00:00"
   },
   "https://tajikistan.mimusjobs.com/job/43/": {
     "result": "success",
@@ -65291,6 +66275,12 @@
     "status": 200,
     "timestamp": "2026-07-19T11:03:33.462384+00:00"
   },
+  "https://tanzania.mimusjobs.com/job/senior-manager-of-commercial-bid-development/": {
+    "result": "success",
+    "site": "Tanzania",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:46.957839+00:00"
+  },
   "https://tanzania.mimusjobs.com/job/technical-operator/": {
     "result": "success",
     "site": "Tanzania",
@@ -65320,6 +66310,12 @@
     "site": "Thailand",
     "status": 200,
     "timestamp": "2026-10-03T11:00:58.297637+00:00"
+  },
+  "https://thailand.mimusjobs.com/job/director-of-digital-transformation-fintech-solutions/": {
+    "result": "success",
+    "site": "Thailand",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:48.110749+00:00"
   },
   "https://thailand.mimusjobs.com/job/human-resources-operations-manager/": {
     "result": "success",
@@ -65410,6 +66406,12 @@
     "site": "Timorleste",
     "status": 200,
     "timestamp": "2026-08-16T05:27:15.860178+00:00"
+  },
+  "https://timorleste.mimusjobs.com/job/attorney-and-lawyer/": {
+    "result": "success",
+    "site": "Timorleste",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:49.229272+00:00"
   },
   "https://timorleste.mimusjobs.com/job/biologist/": {
     "result": "success",
@@ -65692,6 +66694,12 @@
     "site": "Timorleste",
     "status": 200,
     "timestamp": "2026-07-24T11:34:47.100043+00:00"
+  },
+  "https://timorleste.mimusjobs.com/job/nurse/": {
+    "result": "success",
+    "site": "Timorleste",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:36.637678+00:00"
   },
   "https://timorleste.mimusjobs.com/job/paralegal-expert/": {
     "result": "success",
@@ -66017,6 +67025,12 @@
     "status": 200,
     "timestamp": "2026-07-26T10:41:39.505926+00:00"
   },
+  "https://togo.mimusjobs.com/job/french-bilingual-customer-service-specialist/": {
+    "result": "success",
+    "site": "Togo",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:37.785782+00:00"
+  },
   "https://togo.mimusjobs.com/job/french-customer-support-specialist-bilingual-fr-en-non-voice-blended-remote/": {
     "result": "success",
     "site": "Togo",
@@ -66058,6 +67072,12 @@
     "site": "Togo",
     "status": 200,
     "timestamp": "2026-08-10T09:25:12.327935+00:00"
+  },
+  "https://togo.mimusjobs.com/job/head-of-digital-banking/": {
+    "result": "success",
+    "site": "Togo",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:50.383461+00:00"
   },
   "https://togo.mimusjobs.com/job/host-food-runner/": {
     "result": "success",
@@ -66551,6 +67571,12 @@
     "status": 200,
     "timestamp": "2026-07-21T11:42:15.134033+00:00"
   },
+  "https://trinidadandtobago.mimusjobs.com/job/assurance-data-scientist/": {
+    "result": "success",
+    "site": "Trinidadandtobago",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:51.535752+00:00"
+  },
   "https://trinidadandtobago.mimusjobs.com/job/audit-associate-trinidad/": {
     "result": "success",
     "site": "Trinidadandtobago",
@@ -67037,6 +68063,12 @@
     "status": 200,
     "timestamp": "2026-09-18T09:04:34.013938+00:00"
   },
+  "https://tunisia.mimusjobs.com/job/bilingual-french-english-customer-support-voice-and-chat-specialist/": {
+    "result": "success",
+    "site": "Tunisia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:19.272202+00:00"
+  },
   "https://tunisia.mimusjobs.com/job/bilingual-french-remote-customer-support-specialist/": {
     "result": "success",
     "site": "Tunisia",
@@ -67198,6 +68230,12 @@
     "site": "Tunisia",
     "status": 200,
     "timestamp": "2026-09-07T09:18:27.785445+00:00"
+  },
+  "https://tunisia.mimusjobs.com/job/french-english-bilingual-remote-customer-support-representative/": {
+    "result": "success",
+    "site": "Tunisia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:52.726217+00:00"
   },
   "https://tunisia.mimusjobs.com/job/french-speaking-client-support-specialist/": {
     "result": "success",
@@ -67727,6 +68765,12 @@
     "status": 200,
     "timestamp": "2026-07-19T11:03:35.654571+00:00"
   },
+  "https://turkey.mimusjobs.com/job/security-lead/": {
+    "result": "success",
+    "site": "Turkey",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:28.529854+00:00"
+  },
   "https://turkey.mimusjobs.com/job/senior-compensation-and-benefits-specialist/": {
     "result": "success",
     "site": "Turkey",
@@ -67738,6 +68782,12 @@
     "site": "Turkey",
     "status": 200,
     "timestamp": "2026-10-05T11:50:33.228899+00:00"
+  },
+  "https://turkey.mimusjobs.com/job/thrace-safety-and-compliance-manager/": {
+    "result": "success",
+    "site": "Turkey",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:53.879590+00:00"
   },
   "https://turkmenistan.mimusjobs.com/job/administration-assistant/": {
     "result": "success",
@@ -68177,6 +69227,12 @@
     "status": 200,
     "timestamp": "2026-10-03T11:01:05.059379+00:00"
   },
+  "https://tuvalu.mimusjobs.com/job/anime-illustrator-80-hr-remote/": {
+    "result": "success",
+    "site": "Tuvalu",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:13.468811+00:00"
+  },
   "https://tuvalu.mimusjobs.com/job/architectural-designer-50-hr-remote/": {
     "result": "success",
     "site": "Tuvalu",
@@ -68399,6 +69455,12 @@
     "status": 200,
     "timestamp": "2026-08-28T16:18:39.969882+00:00"
   },
+  "https://tuvalu.mimusjobs.com/job/marketing-operations-manager-40-hr-remote/": {
+    "result": "success",
+    "site": "Tuvalu",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:55.031979+00:00"
+  },
   "https://tuvalu.mimusjobs.com/job/materials-engineer/": {
     "result": "success",
     "site": "Tuvalu",
@@ -68603,6 +69665,12 @@
     "status": 200,
     "timestamp": "2026-09-30T11:29:20.100264+00:00"
   },
+  "https://uae.mimusjobs.com/job/uae-national-talent-pool/": {
+    "result": "success",
+    "site": "Uae",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:56.193185+00:00"
+  },
   "https://uganda.mimusjobs.com/job/call-center-team-supervisor/": {
     "result": "success",
     "site": "Uganda",
@@ -68662,6 +69730,12 @@
     "site": "Uganda",
     "status": 200,
     "timestamp": "2026-10-05T11:50:10.874662+00:00"
+  },
+  "https://uganda.mimusjobs.com/job/strategic-account-manager-sme-focus/": {
+    "result": "success",
+    "site": "Uganda",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:57.350346+00:00"
   },
   "https://ukraine.mimusjobs.com/job/106/": {
     "result": "success",
@@ -68746,6 +69820,12 @@
     "site": "Ukraine",
     "status": 200,
     "timestamp": "2026-09-09T09:00:05.614814+00:00"
+  },
+  "https://ukraine.mimusjobs.com/job/application-security-engineer-senior-id71663/": {
+    "result": "success",
+    "site": "Ukraine",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:58.499916+00:00"
   },
   "https://ukraine.mimusjobs.com/job/business-analyst/": {
     "result": "success",
@@ -69635,6 +70715,12 @@
     "status": 200,
     "timestamp": "2026-08-22T04:54:50.350341+00:00"
   },
+  "https://uruguay.mimusjobs.com/job/housekeeper-general-maintenance-worker-gmw-day-shift/": {
+    "result": "success",
+    "site": "Uruguay",
+    "status": 200,
+    "timestamp": "2026-10-06T12:20:59.662531+00:00"
+  },
   "https://uruguay.mimusjobs.com/job/ib-mathematics-teacher/": {
     "result": "success",
     "site": "Uruguay",
@@ -69886,6 +70972,12 @@
     "site": "Usa",
     "status": 200,
     "timestamp": "2026-09-08T09:00:08.347957+00:00"
+  },
+  "https://usa.mimusjobs.com/job/academic-advisor/": {
+    "result": "success",
+    "site": "Usa",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:00.812551+00:00"
   },
   "https://usa.mimusjobs.com/job/administrative-assistant/": {
     "result": "success",
@@ -71099,6 +72191,12 @@
     "status": 200,
     "timestamp": "2026-08-26T04:58:23.214463+00:00"
   },
+  "https://uzbekistan.mimusjobs.com/job/senior-sap-mdg-consultant/": {
+    "result": "success",
+    "site": "Uzbekistan",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:01.970684+00:00"
+  },
   "https://uzbekistan.mimusjobs.com/job/senior-sapui5-btp-developer-relocation-to-cyprus/": {
     "result": "success",
     "site": "Uzbekistan",
@@ -71386,6 +72484,12 @@
     "site": "Venezuela",
     "status": 200,
     "timestamp": "2026-07-27T14:06:05.921419+00:00"
+  },
+  "https://venezuela.mimusjobs.com/job/backend-developer-remote/": {
+    "result": "success",
+    "site": "Venezuela",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:03.097253+00:00"
   },
   "https://venezuela.mimusjobs.com/job/barista/": {
     "result": "success",
@@ -71945,6 +73049,12 @@
     "status": 200,
     "timestamp": "2026-10-03T11:01:14.173902+00:00"
   },
+  "https://vietnam.mimusjobs.com/job/project-coordinator-extended-deadline-vine-long/": {
+    "result": "success",
+    "site": "Vietnam",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:04.277653+00:00"
+  },
   "https://vietnam.mimusjobs.com/job/seasoned-tour-guide-skills-development-trainer/": {
     "result": "success",
     "site": "Vietnam",
@@ -72220,6 +73330,12 @@
     "site": "Yemen",
     "status": 200,
     "timestamp": "2026-08-29T11:11:31.421845+00:00"
+  },
+  "https://yemen.mimusjobs.com/job/chief-technology-officer/": {
+    "result": "success",
+    "site": "Yemen",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:05.429486+00:00"
   },
   "https://yemen.mimusjobs.com/job/co-finance-coordinator-treasury-and-accounting-aden-national-only/": {
     "result": "success",
@@ -72605,6 +73721,18 @@
     "status": 200,
     "timestamp": "2026-10-01T11:17:12.366140+00:00"
   },
+  "https://zambia.mimusjobs.com/job/client-relationship-manager-at-zambia-national-commercial-bank-plc/": {
+    "result": "success",
+    "site": "Zambia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:18.121080+00:00"
+  },
+  "https://zambia.mimusjobs.com/job/copper-belt-implementation-specialist-at-zambia-national-commercial-bank-plc/": {
+    "result": "success",
+    "site": "Zambia",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:06.587417+00:00"
+  },
   "https://zambia.mimusjobs.com/job/digital-technology-ict-support-volunteer/": {
     "result": "success",
     "site": "Zambia",
@@ -72772,6 +73900,12 @@
     "site": "Zimbabwe",
     "status": 200,
     "timestamp": "2026-08-29T11:11:54.851577+00:00"
+  },
+  "https://zimbabwe.mimusjobs.com/job/class-3-and-4-driver-or-class-4-and-riders-certificate-x1/": {
+    "result": "success",
+    "site": "Zimbabwe",
+    "status": 200,
+    "timestamp": "2026-10-06T12:21:07.744412+00:00"
   },
   "https://zimbabwe.mimusjobs.com/job/clothing-factory-machinist/": {
     "result": "success",
